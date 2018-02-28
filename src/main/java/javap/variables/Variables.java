@@ -1,32 +1,28 @@
-package javap.test;
-
-
-import java.util.HashSet;
-import java.util.Set;
-import javap.arrays.SetType;
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package javap.variables;
 
 /**
  *
  * @author vjrojasb
  */
-public class SetTest {
+public class Variables {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        SetType s1 = new SetType();
-        Set<Integer> tmp = new HashSet<Integer>();
-        tmp.add(11);
-        tmp.add(22);
-        s1.setSet1(tmp);
-        System.out.println(s1.getSet1());
+       
+        //Varibles
+        String $_var_girl = "Maria";
+        String _var_dinero_ = "Beto";
+        String __var_edad = "cinco";
+        String A$B = "seis";
+        
+        System.out.println($_var_girl + " " + _var_dinero_ + " " + __var_edad + " " + A$B);
     }
     
 }

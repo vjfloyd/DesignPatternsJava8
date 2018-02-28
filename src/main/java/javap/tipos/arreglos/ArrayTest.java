@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javap.test;
+package javap.tipos.arreglos;
 
 import java.util.ArrayList;
 import javap.arrays.ArrayTypes;
