@@ -6,6 +6,7 @@
 package javap.fechas;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 /**
  *
@@ -18,7 +19,10 @@ public class FechasTest {
      */
     public static void main(String[] args) {
         // imprimir fecha con formato cool
-        System.err.println("fecha: " + LocalDate.now());
+        System.out.println("fecha: " + LocalDate.now());
+        LocalDateTime localDateTime;
+        System.out.println(LocalDateTime.now());
+
     }
     
 }
