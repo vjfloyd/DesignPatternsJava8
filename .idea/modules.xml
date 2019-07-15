@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatternsJava8.iml" filepath="$PROJECT_DIR$/DesignPatternsJava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bvl-data-admin-fork/bvl-data-admin.iml" filepath="$PROJECT_DIR$/../../bvl-data-admin-fork/bvl-data-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ms-bvl-admin-fork/ms-bvl-admin.iml" filepath="$PROJECT_DIR$/../../ms-bvl-admin-fork/ms-bvl-admin.iml" />
+    </modules>
+  </component>
+</project>

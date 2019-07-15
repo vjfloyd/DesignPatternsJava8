@@ -21,8 +21,18 @@ public class Variables {
         String _var_dinero_ = "Beto";
         String __var_edad = "cinco";
         String A$B = "seis";
-        
         System.out.println($_var_girl + " " + _var_dinero_ + " " + __var_edad + " " + A$B);
+
+
+        int a = 2;
+        int b = a * 10;
+        b = a*10;
+
+        System.out.println(b);
+        a = 3;
+        b = a*10;
+        System.out.println(b);
+
     }
     
 }
